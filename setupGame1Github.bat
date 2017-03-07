@@ -1,5 +1,5 @@
 echo "# game1" >> README.md
-git config --global user.name yatesjdy
+git config --global user.name "yatesjdy"
 git config --global user.email yatesjdy@comcast.net
 /usr/bin/git init
 /usr/bin/git add README.md
